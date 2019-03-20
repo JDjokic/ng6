@@ -43,7 +43,7 @@ export class InMemoryDataService implements InMemoryDbService {
       },
       {id: 'gallery',
         tagline: 'We ❤ Doing amazing things',
-        title: 'AdMISTER STUDIO',
+        title: 'NEW GALLERY',
         description: 'We are and amazing company',
       },
       {id: 'footer',
