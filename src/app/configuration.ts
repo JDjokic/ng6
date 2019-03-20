@@ -79,8 +79,8 @@ export const configuration = {
         ]
     },
     footer: {
-        copyrighttext: 'Made with ❤ by',
-        developer: 'AdMISTER STUDIO',
+        copyrighttext: '© Copyright All Rights Reserved by',
+        developer: 'EMS',
         developerlink: 'http://admister.in',
     },
     socialsites: [
