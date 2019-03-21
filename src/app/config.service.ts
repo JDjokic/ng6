@@ -24,7 +24,7 @@ export class ConfigService {
   private handleError<T> (operation = 'operation', result?: T) {
     return (error: any): Observable<T> => {
 
-      // TODO: send the error to remote logging infrastructure
+      // TODO: send the error to remote logging infrastructure  Milan
       console.error(error); // log to console instead
       // TODO: better job of transforming error for user consumption
       console.log(`${operation} failed: ${error.message}`);
